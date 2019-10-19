@@ -197,3 +197,4 @@ if __name__ == '__main__':
     pass
     # config.init()
     # init_wechat()
+    
